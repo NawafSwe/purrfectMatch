@@ -1,0 +1,23 @@
+body {
+  background: url('https://images.unsplash.com/photo-1415369629372-26f2fe60c467');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  height: 100%;
+  width: 100%;
+  padding-top: 70px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: black;
+}
+.navbar-inverse .navbar-header .navbar-brand {
+  color: black;
+}
+
+#content {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 15%;
+}
